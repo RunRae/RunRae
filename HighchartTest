@@ -1,0 +1,1 @@
+<iframe id="eia_widget" style="width: 50%; height: 300px;" src="//www.eia.gov/opendata/embed/iframe.php?api_key=YOUR_KEY_HERE&series_id=PET.EMM_EPMRR_PTE_NUS_DPG.W;PET.EMM_EPMRU_PTE_NUS_DPG.W;PET.EMD_EPD2DXL0_PTE_NUS_DPG.W&periods=5A"></iframe>
